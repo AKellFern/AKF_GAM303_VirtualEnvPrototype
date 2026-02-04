@@ -1,42 +1,44 @@
-# AKF GAM303 Virtual Environment Prototype
+# AKF_GAM303_VirtualEnvPrototype
 
-A rapid prototype built in Unreal Engine 5 for GAM 303: Design of Virtual Game Environments at SNHU.  
-This project explores interactive design, level prototyping, interface flow, and system balancing using Blueprint scripting and iterative design practices.
-
----
-
-## 🎮 Project Overview
-
-This project demonstrates foundational skills in:
-- 🔁 Source control and versioning
-- ⚙️ Rapid prototyping under tight iteration cycles
-- 🚪 Interactive level mechanics (e.g. doors, triggers, pickups)
-- 🧠 Design theory, UI/UX strategy, and player feedback loops
+A virtual environment prototype developed in Unreal Engine 5 as part of the GAM 303: Design of Virtual Game Environments course at Southern New Hampshire University. This project explores interactive design, level prototyping, interface flow, and system iteration using Blueprint scripting.
 
 ---
 
-## 🧪 Current Focus Areas
+## Project Overview
 
-- [x] Door setup and interaction triggers
-- [x] Basic UI elements and layout testing
-- [ ] Final pickup behavior implementation
-- [ ] Postmortem and reflection document
-- [ ] Final level polish pass
+This prototype focuses on foundational environment design and interaction systems within a scoped level. Emphasis was placed on rapid iteration, usability, and the application of design theory to interactive spaces.
 
----
-
-## 🧰 Tools & Tech
-
-- **Engine**: Unreal Engine 5  
-- **Scripting**: Blueprint Visual Scripting  
-- **Version Control**: Git, GitHub  
-- **Docs**: Google Docs + GitHub Markdown
+Key areas explored include:
+- Source control and versioning practices
+- Rapid prototyping under constrained timelines
+- Interactive level mechanics (doors, triggers, pickups)
+- UI flow, player feedback, and basic system balancing
 
 ---
 
-## 🗂️ Repository Structure
+## Implemented Systems
 
-```nginx
+- Interactive doors and trigger-based interactions
+- Basic UI elements and layout experimentation
+- Early pickup and interaction logic
+- Iterative level layout and flow adjustments
+
+This project demonstrates an understanding of environment-focused design workflows and iterative development in Unreal Engine.
+
+---
+
+## Tools & Technology
+
+- **Game Engine:** Unreal Engine 5  
+- **Scripting:** Blueprint Visual Scripting  
+- **Version Control:** Git, GitHub  
+- **Documentation:** Google Docs, GitHub Markdown  
+
+---
+
+## Repository Structure
+
+```
 AKF_GAM303_VirtualEnvPrototype
 ├── Config/
 ├── Content/
@@ -45,12 +47,24 @@ AKF_GAM303_VirtualEnvPrototype
 ├── AKellFern303.uproject
 └── README.md
 ```
-> 📌 Note: This repo is actively being developed and updated.
 
 ---
 
-## ✍️ Author
+## Course Context
+
+- **Course:** GAM 303 – Design of Virtual Game Environments  
+- **Institution:** Southern New Hampshire University  
+
+Skills emphasized in this project include:
+- Environment prototyping
+- Interaction design
+- UI flow and usability considerations
+- Iterative level design
+
+---
+
+## Author
 
 **Aaron Kellan-Fernandez**  
-Game Programming & Development student at SNHU  
-🔗 [GitHub Portfolio](https://github.com/AKellFern)
+Game Programming & Development student  
+GitHub: https://github.com/AKellFern
